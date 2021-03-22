@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../coursPHP/testPhp"
+		},
+		{
+			"path": "../coursPHP/boilerplate-it-akademy-master"
+		}
+	],
+	"settings": {}
+}

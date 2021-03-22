@@ -1,0 +1,57 @@
+.home {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.orchid {
+    background: url(../img/prix-dune-orchidée.jpg);
+    width: 200px;
+    height: 150px;
+    background-size: 100%;
+    margin: 3em;
+}
+
+/* .orchid a {
+    width: 100%;
+    height: 100%;
+} */
+
+.green {
+    background: url(../img/calathea.jpg);
+    width: 200px;
+    height: 150px;
+    background-size: 100%;
+    margin: 3em;
+}
+
+.pottery {
+    background: url(../img/pottery.jpg);
+    width: 200px;
+    height: 150px;
+    background-size: 100%;
+    margin: 3em;
+}
+
+.tools {
+    background: url(../img/tools.jpg);
+    width: 200px;
+    height: 150px;
+    background-size: 100%;
+    margin: 3em;
+}
+
+.verte {
+    background: url(../img/verte.jpg);
+    width: 200px;
+    height: 150px;
+    background-size: 100%;
+    margin: 3em;
+}
+
+.sechees {
+    background: url(../img/sechees.jpg);
+    width: 200px;
+    height: 150px;
+    background-size: 100%;
+    margin: 3em;
+}
